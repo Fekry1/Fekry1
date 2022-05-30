@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fekry1
+- 👋 Hi, I’m Omar Fekry
 - 👀 I’m interested in Data Science & Analytics field
 - 🌱 I’m currently learning basic python libraries (machine learning)
 
