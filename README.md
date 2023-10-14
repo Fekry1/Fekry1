@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Omar Fekry
-- 👀 I’m interested in Data Science & Analytics field
-- 🌱 I’m currently learning basic python libraries (machine learning)
+- 👋🏻 Hi, I’m Omar Fekry
+- ✨ I’m software engineer who is interested in Backend development specilaization. 
+- 🌱 I’m currently learning computer science essintials and basics. 
 
 <!---
 Fekry1/Fekry1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
