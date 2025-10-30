@@ -13,14 +13,13 @@ I’m an **ITI graduate** specialized in **Business Analysis and Robotic Process
 ## 🧩 Technical Skills
 - **RPA Tools:** UiPath Studio, UiPath Orchestrator
 - **Programming Languages:** C#, JavaScript, Python, HTML, CSS  
-- **Databases:** T-SQL, MySQL  
+- **Databases:** T-SQL  
 - **Frameworks & Tools:** Node.js, Angular  
 - **Business Analysis:** Requirements Gathering, Workflow Design, Process Optimization  
 
 ---
 
 ## 🎓 Certifications
-- **UiPath Automation Developer – Advanced Training (Mahara Tech)**
 - **UiPath Automation Business Analysis Associate – UiPath Academy**
 
 ---
