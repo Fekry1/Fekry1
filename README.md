@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Omar Fekry  
 
-💼 **RPA Developer | UiPath Certified | Software Engineer**
+💼 **RPA Developer | Software Engineer**
 
 ---
 
