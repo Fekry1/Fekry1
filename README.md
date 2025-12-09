@@ -34,7 +34,7 @@ I’m an **ITI graduate** specialized in **Business Analysis and Robotic Process
 ## 📫 Contact
 - 📧 Email: [omarfekry01@outlook.com](mailto:omarfekry01@outlook.com)  
 - 💼 LinkedIn: [linkedin.com/in/fekry1](https://www.linkedin.com/in/fekry1/)  
-- 🌍 Location: Mansoura, Egypt  
+- 🌍 Location: Cairo, Egypt  
 
 ---
 
