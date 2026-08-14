@@ -28,11 +28,6 @@ A UiPath automation project built around REFramework and modular workflows. It h
 
 **Key areas:** UiPath, REFramework, Excel, Browser Automation, Modular Design
 
-### [UiPath RPA Projects and Training Work](https://github.com/Fekry1/RPA-Certificates)
-A collection of UiPath automations covering dispatcher and performer patterns, ACME work-item processing, email automation, browser automation, reusable workflows, and structured exception handling.
-
-**Key areas:** UiPath, REFramework, Dispatcher/Performer, Email Automation, UI Automation
-
 ### [E-Commerce Web Application](https://github.com/Fekry1/e-commerce-project)
 A full-stack web project with a separate frontend and backend structure. The backend is built with Node.js and Express, while the frontend is implemented with Angular.
 
@@ -43,13 +38,18 @@ A machine learning project that compares multiple classification approaches incl
 
 **Key areas:** Python, Machine Learning, Model Comparison, Data Analysis
 
-## Current Focus
+## RPA Experience
 
-I am currently building stronger production-style automations with emphasis on REFramework, Orchestrator, queues, configuration-driven workflows, logging, retry logic, and reusable components.
+My UiPath work includes REFramework-based automation, ACME dispatcher and performer workflows, email automation, browser automation, reusable workflow design, Excel integration, exception handling, and logging.
 
 ## Certifications
 
+- [RPA and Programming Certificates](https://github.com/Fekry1/RPA-Certificates)
 - UiPath Automation Business Analysis Associate, UiPath Academy
+
+## Current Focus
+
+I am currently building stronger production-style automations with emphasis on REFramework, Orchestrator, queues, configuration-driven workflows, logging, retry logic, and reusable components.
 
 ## Contact
 
